@@ -1,0 +1,230 @@
+[
+    {
+      "id": "1",
+      "day": "24",
+      "month": "March",
+      "message": "(8:00 - 9:30) Learn C simple if-else && switch case \n(9:30 - 10:20) Practice doing math problems (A-Level) && Logic"
+    },
+    {
+      "id": "2",
+      "day": "25",
+      "month": "March",
+      "message": "(8:00 - 9:17) Learn C Try to do mini project for learn switch+if-else _ Leran loop (for while do..while)\n(9:28 - 9:40)Watch YT 9arm How to giving a scene to chat gpt \n(9:41 - 9:56) read a Math subject Real number\n-Learn CSS "
+    },
+    {
+      "id": "3",
+      "day": "26",
+      "month": "March",
+      "message": "(9:30 - 11:03) Make a website for fun and use firebase. \n(17:20 - 18:56) Learn C (Understand loops and apply them to swtich-case.)"
+    },
+    {
+        "id": "4",
+        "day": "27",
+        "month": "March",
+        "message": "(9:10 - 11:03) Learn C simple (basic adjustment Min-Max) but use Array"
+    },
+    {
+        "id": "5",
+        "day": "28",
+        "month": "March",
+        "message": "(10:00 - 10:30) Learn C function (FAbs(), Celi()) \n(16:20-18:00) Try to do easy option By function and module "
+    },
+    {
+        "id": "6",
+        "day": "29",
+        "month": "March",
+        "message": "(9:30 - 11:11) Fix easy option and learn more function && try different problems about functions.(Recursion && factorial)"
+    },
+    {
+        "id": "7",
+        "day": "30",
+        "month": "March",
+        "message": "(9:20 - 10:15) Math A-Leval (5)"
+    },
+    {
+        "id": "8",
+        "day": "1",
+        "month": "April",
+        "message": "NSC!"
+    },
+    {
+        "id": "9",
+        "day": "2",
+        "month": "April",
+        "message": " Relax --Take a break from doing activities yesterday. \n-Math A-Level"
+    },
+    {
+        "id": "10",
+        "day": "3",
+        "month": "April",
+        "message": "(9:10 - 10:40) Learn C Array \nFind the difference between Math1 and Math2."
+    },
+    {
+        "id": "11",
+        "day": "4",
+        "month": "April",
+        "message": "(8:20 - 10:40) Math Expo&Log"
+    },
+    {
+        "id": "12",
+        "day": "5",
+        "month": "April",
+        "message": "Study a little"
+    },
+    {
+        "id": "13",
+        "day": "6",
+        "month": "April",
+        "message": "(8:10 - 9:00)Learn C Array (Param, selection sort) \n(9:00 - 10:30) Math A-Level (7) log , set , ..."
+    },
+    {
+        "id": "14",
+        "day": "7",
+        "month": "April",
+        "message": "Travel (ROBINSON!)"
+    },
+    {
+        "id": "15",
+        "day": "8",
+        "month": "April",
+        "message": "(9:00 - 10:20)Try doing the problem 'สอวน' 30 questions \n(10:25 - 11:13) Learn C structure, union"
+    },
+    {
+        "id": "16",
+        "day": "9",
+        "month": "April",
+        "message": "(8:10 - 9:20) BRUH C pointer (Pointer => Arr) \n(9:30 - 10:45) A-Level Math1 8 ques."
+    },
+    {
+        "id": "17",
+        "day": "10",
+        "month": "April",
+        "message": "Nothing"
+    },
+    {
+        "id": "18",
+        "day": "11",
+        "month": "April",
+        "message": "(8:15 - 9:15)Learn C Color \n(9:55 - 10:20) PAT3"
+    },
+    {
+        "id": "19",
+        "day": "12",
+        "month": "April",
+        "message": "(8:15 - 9:10) Learn C Graphic && C++ \n(9:55 - 10:15)Learn little SQL"
+    },
+    {
+        "id": "20",
+        "day": "13",
+        "month": "April",
+        "message": "(8:25 - 10:45)Learn SQL (SELECT * FROM ... WHERE) \n(17:40 - 15:36) Leane more SQL + use Python connect SQL \n (15:37 - 16:00) Learn Physic"
+    },
+    {
+        "id": "21",
+        "day": "14",
+        "month": "April",
+        "message": "(8:25 - 9:45) Learn Physic (Ep3) \n(9:50 - 9:55)Ask caht gpt about prime numbers \n(9:50 - 10:45)Learn more SQL(IN, BETWEEN,JOIN) \n(12:30-13:05)Learn SQL case"
+    },
+    {
+        "id": "22",
+        "day": "15",
+        "month": "April",
+        "message": "(8:25 - 9:35)Strart to learn Javascript (console.log,${...},parseInt,NaN) \n(9:35 - 10:57) Learn Physic Freebody diagram(graph vt,at) (Ep4)"
+    },
+    {
+        "id": "23",
+        "day": "16",
+        "month": "April",
+        "message": "(8:20 - 9:25) Learn Physic (Ep5) Newton's 3 laws \n(9:35 - 10:50) Learn Javascript if-else, switch case, loop,function(Recursion,Arrow,Anonymous,Callback)"
+    },
+    {
+        "id": "24",
+        "day": "17",
+        "month": "April",
+        "message": "(8:25 - 9:43) Learn Physic (Ep6) \n(10:05 - 10:53) Learn js object , array , json \n(10:55 - 11:36) Learn JSON again \n(16:00 - 16:51)Try to write file JSON \n(17:00 - 17:32) Try to write Array && for loop"
+    },
+    {
+        "id": "25",
+        "day": "18",
+        "month": "April",
+        "message": "(8:35 - 9:56) Physic (Ep7) law of conservation of energy \n(10:05 - 11:00) Math Function \n(11:00 - 11:32) find investment information \n (13:20 - 16:00)Trade && How to create Android app && install flutter"
+    },
+    {
+        "id": "26",
+        "day": "19",
+        "month": "April",
+        "message": "(7:53 - 8:58) Physic (Ep8) momentum \n(9:00 - 9:51) Math function \n(10:01 - 10:50) Learn Javascript function (RegEx, Date, eval)"
+    },
+    {
+        "id": "27",
+        "day": "20",
+        "month": "April",
+        "message": "(7:55 - 9:00) Physic (Ep9) mechanical balance \n(9:10 - 10:06) Learn js How to use js together with html && css"
+    },
+    {
+        "id": "28",
+        "day": "21",
+        "month": "April",
+        "message": "(8:10 - 9:16) Physic (Ep10) Projectile \n (9:30 - 10:35) Learn js event"
+    },
+    {
+        "id": "29",
+        "day": "22",
+        "month": "April",
+        "message": "(2h) continue playing website (fakeshop) \n(1h) Physic (Ep11)"
+    },
+    {
+        "id": "30",
+        "day": "23",
+        "month": "April",
+        "message": "(8:30 - 9:10) Physic (Ep12) Simple hamonic \n(9:30 - 10:20) crate module \n(13:00 - 15:30) Do some C language problems to practice. >:D"
+    },
+    {
+        "id": "31",
+        "day": "24",
+        "month": "April",
+        "message": "(8:40 - 9:50) Physic (Ep13) \n (10:00 - 10:30) Learn asynchronous function (await)"
+    },
+    {
+        "id": "32",
+        "day": "25",
+        "month": "April",
+        "message": "(8:10 - 9:05) Physic (Ep14) ' แสงเชิงคลื่น' \n(9:30 - 11:30) Learn js How to use server (http, fs) http://127.0.0.1:port && install module"
+    },
+    {
+        "id": "33",
+        "day": "26",
+        "month": "April",
+        "message": "(8:10 - 9:20) Physic (Ep15) \n(9:30 - 10:05) js express"
+    },
+    {
+        "id": "34",
+        "day": "27",
+        "month": "April",
+        "message": "(8:00 - 8:56) Physic (Ep16) 'เสียง' \n(9:00 - 9:37) js bootstrap framwork , .ejs , static file"
+    },
+    {
+        "id": "35",
+        "day": "28",
+        "month": "April",
+        "message": "(8:00 - 9:20) Physic (Ep17) \n(9:30 - 10:09) js form"
+    },
+    {
+        "id": "36",
+        "day": "29",
+        "month": "April",
+        "message": "(8:00 - 9:22) Physic (Ep18) 'ไฟฟ้ากระแส' \n(12:00 - 14:00) JS ToDoList SimpleProject"
+    },
+    {
+        "id": "37",
+        "day": "30",
+        "month": "April",
+        "message": "(8:00 - 9:34) Physic (Ep19) \n(11:00 - 14:00) ask chat gpt How to do this Project (Find knowledge during the semester break)"
+    },
+    {
+        "id": "38",
+        "day": "1",
+        "month": "May",
+        "message": "(10:30 - 14:40) Do this project"
+    }
+  ]
