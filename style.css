@@ -18,10 +18,24 @@ header {
     font-size: 25px;
   }
   .month {
-    margin: 20px 0 10px 10px;
+    margin: 20px 0 30px -20px;
     font-size: 30px;
+    border: 3px solid #111;
+    border-radius: 0 20px 20px 0;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
-  
+  .month:hover {
+    background-color: black;
+    color: white;
+    transform: translateX(20px);
+  }
+
+  button:hover {
+    color: red;
+  }
   .date-box {
     display: inline-block;
     width: 50px;
